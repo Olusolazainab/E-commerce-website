@@ -1,0 +1,347 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #FFFBF1;
+}
+.logo{
+    position: absolute;
+    top: -330px;
+    left: -90px;
+}
+
+.login{
+    /* width: 600px; */
+    color: white;
+    padding:10px 68px;
+    background-color: #004c3f;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: larger;
+        
+}
+
+.welcome{
+    position: relative;
+    top: -300px;
+}
+
+.login:hover{
+    color: white;
+}
+
+ .login{
+    position: relative;
+    top: -350px;
+    right: -450px;
+    
+} 
+
+.already{
+    position: relative;
+    top: -315px;
+    right: -170px;
+    font-weight: bold;
+}
+
+ 
+/* .cards{
+    margin: 10px auto;
+} */
+
+.green{
+    background-color: #004c3f;
+}
+
+.ungrade{
+    color: #004c3f;
+    font-weight: bold;
+}
+
+.getShop{
+    border: none;
+    border-radius: 5px;
+    background-color: #16963D;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: larger;
+}
+
+.getShop:hover{
+    color: white;
+}
+.playStore{
+    border: none;
+    border-radius: 5px;
+    background-color:black;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
+.backg{
+    background-color: #FFFBF1;
+}
+
+.backg1{
+    background-color: #636864 ;
+}
+
+.gray{
+    background-color: #D8DFD8;
+}
+
+.blueLady{
+    position: relative;
+    left: 80px;
+    top: -35px;
+}
+
+.icon{
+    position: relative;
+    top: -20px;
+}
+
+.mac{
+    position: relative;
+    bottom: -55px;
+}
+.iosA{
+    color: #636864;
+    position: relative;
+    top: -40px;
+}
+
+.thirdSection{
+    background-color: #004c3f;
+    
+}
+
+.first{
+    color: white;
+}
+.rest{
+    background-color: #FFFBF1;
+}
+
+.monitor{
+    color: #16963D;
+}
+
+.receive{
+    background-color: #004c3f;
+}
+
+.cardd{
+    border: none;
+}
+
+.foter{
+    background-color: #FFFBF1;
+}
+.fote{
+    color: #004c3f;
+    text-decoration: none;
+}
+
+.fote:hover{
+    color: #004c3f;
+}
+
+.sub{
+    border: none;
+    border-radius: 5px;
+    background-color: #16963D;
+    color: white;
+    width: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: larger;
+}
+
+.btn1{
+    text-decoration: none;
+    color: white;
+}
+
+
+.limited{
+    
+    border-radius: 5px;
+    height: 50px;
+    width: 350px;
+}
+
+.db1{
+    border: none;
+    border-radius: 5px;
+    background-color: #16963D;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: small;
+}
+
+.db2{
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: small;
+}
+
+.db1:hover{
+    color: white;
+}
+
+.db2:hover{
+    color: white;
+}
+
+.heade{
+    background-color: #004c3f;
+}
+
+.headesignin{
+    border: none;
+    border-radius: 5px;
+    background-color:white;
+    color: #004c3f;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.headesignin:hover{
+    color: #004c3f;
+}
+
+.contact-footer{
+    background-color: #004c3f;
+    color: white;
+}
+
+.aaa{
+    color: white;
+    text-decoration: none;
+}
+
+.aaa:hover{
+    color: white;
+}
+
+.sig{
+    color: #004c3f;
+    text-decoration: none;
+}
+
+.sig:hover{
+    color: #004c3f;
+}
+
+.cont{
+    color: #16963D;
+    text-decoration: none;
+}
+
+.cont:hover{
+    color: #16963D;
+}
+.shopperHeader{
+    background-color: #38414A;
+}
+
+.shopperFooter{
+    background-color: #eeeff3;
+}
+
+aside a{
+text-decoration: none;
+
+}
+ul{
+    list-style: none;
+}
+
+.hom{
+    color: #4EC5D4;
+}
+
+.homm{
+    color: #9da2b2;
+}
+
+.hom:hover{
+    color: #9da2b2;
+}
+
+.bod{
+    background-color: #F5F6F8;
+}
+
+.asideCard{
+    border: none;
+}
+
+.yak{
+    text-decoration: none;
+    color: gray;
+}
+
+.yak:hover{
+    color: gray
+}
+
+a{
+    text-decoration: none;
+}
+
+/* MEDIA QURIES */
+@media screen and (max-width: 568px){
+#aNew{
+    width: 100%;
+}
+
+#restA{
+    width: 100%;
+}
+}
+     
+
+      /* form validation */
+
+     input[type=email]{
+         -webkit-appearance: none;
+         appearance: none;
+
+     }
+
+    
+/* errpr message */
+     .error{
+        width: 100%;
+        padding:  0;
+        
+        font-size: 80%;
+        color: white;
+        background-color: #900;
+
+     }
+    
+.error.active{
+    padding: 0.3em;
+}
